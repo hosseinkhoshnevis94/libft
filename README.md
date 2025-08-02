@@ -109,7 +109,7 @@ gcc -Wall -Wextra -Werror your_code.c -L. -lft
 
 ## 🧪 Test Your Implementation
 
-You can test your libft implementation using [Francinette](https://github.com/alelievr/francinette), a popular automated testing tool designed for 42 libft projects.
+You can test your libft implementation using [Francinette](https://github.com/xicodomingues/francinette), a popular automated testing tool designed for 42 libft projects.
 
 To use Francinette:
 
