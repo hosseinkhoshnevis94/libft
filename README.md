@@ -121,12 +121,6 @@ To use Francinette:
 
 ---
 
-## 📌 Why This Project Matters
-
-As a web developer with a background in architecture and software, building `libft` strengthened my low-level programming skills, improved my code organization habits, and taught me to build robust, efficient solutions — skills I apply in JavaScript, React, Node.js, and full-stack development today.
-
----
-
 ## 🧾 License
 
 This project is part of the 42 School curriculum. You’re welcome to use and learn from it, but do not copy it directly for your own submission.
