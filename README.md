@@ -1,4 +1,4 @@
-# Libft – Your Own C Standard Library
+# Libft 
 
 Welcome to my implementation of `Libft`, a foundational project at 42 that re-creates many functions from the C standard library. This project was a great opportunity to improve my understanding of memory management, string manipulation, and function implementation in C.
 
